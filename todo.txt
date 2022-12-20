@@ -1,0 +1,4 @@
+Differents step : 
+
+* How routing works
+* 
